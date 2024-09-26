@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://oazkdy.github.io/sitemap/sitemap.txt
